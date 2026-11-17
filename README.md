@@ -1,8 +1,8 @@
 # oisaso
 
-**Python automation Â· web scraping Â· bug fixes Â· bots.**
+**Python automation / web scraping / bug fixes / bots.**
 
-I build small, reliable tools that remove repetitive work â€” and fix code that almost works.
+I build small, reliable tools that remove repetitive work, and fix code that almost works.
 
 ## Public demos
 
@@ -14,7 +14,7 @@ I build small, reliable tools that remove repetitive work â€” and fix code 
 
 ## What I work with
 
-Python Â· JavaScript Â· web scraping Â· automation Â· API integrations Â· Discord bots Â· debugging Â· testing
+Python / JavaScript / web scraping / automation / API integrations / Discord bots / debugging / testing
 
 ## Availability
 
